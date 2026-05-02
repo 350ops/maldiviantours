@@ -1,0 +1,1971 @@
+{
+    "data": {
+        "charters": [
+            {
+                "id": 46900,
+                "title": "SaltytaleMv",
+                "isAvailable": true,
+                "isInstantBookActive": true,
+                "isFreeCancellationActive": true,
+                "freeCancellationDaysInAdvance": 3,
+                "minPrice": {
+                    "value": 298.4975,
+                    "displayValue": "€298",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 183756,
+                    "currency": "EUR",
+                    "tripPrice": 298,
+                    "basePrice": 298,
+                    "additionalPersonAfter": null,
+                    "additionalPersonPrice": null,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 75,
+                        "tripPricePerHour": 75
+                    }
+                },
+                "licenseStatus": "Pending",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1132751",
+                    "charterIdcharter": "46900",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "02eccf7258581e16027d7cebd8302f2d.jpg",
+                    "width": "3072",
+                    "height": "4096",
+                    "aspectRatio": "0.750",
+                    "status": "optimized",
+                    "createdDate": "2025-12-16 08:29:46",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/46900/sb/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/46900/m/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/46900/tb/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/46900/m/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/46900/mb/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/46900/f/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/46900/fb/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/46900/t/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/46900/tb/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/46900/s/02eccf7258581e16027d7cebd8302f2d.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/46900/sb/02eccf7258581e16027d7cebd8302f2d.jpg"
+                    }
+                },
+                "charterVideo": null,
+                "airDistance": {
+                    "distance": 1.3,
+                    "message": null
+                },
+                "drivingDistance": {
+                    "distanceInMiles": 1.6,
+                    "distanceInMilesMessage": null,
+                    "duration": {
+                        "hours": 0,
+                        "minutes": 7
+                    },
+                    "durationMessage": null
+                },
+                "reviewStatistics": null,
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Hithigas Magu 20509",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Malé",
+                    "locationId": 61,
+                    "destinationId": 34,
+                    "postalCode": "",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": null,
+                "newBadge": null,
+                "hasAnglersChoiceAward": false,
+                "capacity": 4,
+                "length": "24",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_rental",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 183756,
+                    "title": "4 Hour – Sandbar Trip",
+                    "duration": 4,
+                    "type": "V",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [
+                    {
+                        "reviewCount": 2,
+                        "reviewScore": 5,
+                        "source": "FishingBooker"
+                    }
+                ],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "sandbar_tours"
+                ],
+                "boatType": "Center console",
+                "cheapestTripForActivity": null
+            },
+            {
+                "id": 40687,
+                "title": "Lavenier –Your Gateway to Maldivian Adventure",
+                "isAvailable": true,
+                "isInstantBookActive": true,
+                "isFreeCancellationActive": true,
+                "freeCancellationDaysInAdvance": 1,
+                "minPrice": {
+                    "value": 554.3525,
+                    "displayValue": "€554",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 172572,
+                    "currency": "EUR",
+                    "tripPrice": 554,
+                    "basePrice": 554,
+                    "additionalPersonAfter": null,
+                    "additionalPersonPrice": null,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 139,
+                        "tripPricePerHour": 139
+                    }
+                },
+                "licenseStatus": "Pending",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1078582",
+                    "charterIdcharter": "40687",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                    "width": "1200",
+                    "height": "1600",
+                    "aspectRatio": "0.750",
+                    "status": "optimized",
+                    "createdDate": "2025-03-07 11:40:17",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/40687/sb/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/40687/m/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/40687/tb/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/40687/m/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/40687/mb/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/40687/f/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/40687/fb/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/40687/t/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/40687/tb/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/40687/s/30f74e81cf16f1b189a34d17dcb0556f.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/40687/sb/30f74e81cf16f1b189a34d17dcb0556f.jpg"
+                    }
+                },
+                "charterVideo": null,
+                "airDistance": null,
+                "drivingDistance": null,
+                "reviewStatistics": null,
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Male-Hulhumale Ferry",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Hulhumale",
+                    "locationId": 1065,
+                    "destinationId": 1054,
+                    "postalCode": "",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": null,
+                "newBadge": null,
+                "hasAnglersChoiceAward": false,
+                "capacity": 5,
+                "length": "27",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_tour",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 172572,
+                    "title": "4 Hour – Maldivian Adventure",
+                    "duration": 4,
+                    "type": "V",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "island_hopping",
+                    "snorkeling_diving_tours",
+                    "sandbar_tours"
+                ],
+                "boatType": "Center console",
+                "cheapestTripForActivity": null
+            },
+            {
+                "id": 48423,
+                "title": "Mantis",
+                "isAvailable": true,
+                "isInstantBookActive": true,
+                "isFreeCancellationActive": true,
+                "freeCancellationDaysInAdvance": 3,
+                "minPrice": {
+                    "value": 682.28,
+                    "displayValue": "€682",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 189819,
+                    "currency": "EUR",
+                    "tripPrice": 171,
+                    "basePrice": 85,
+                    "additionalPersonAfter": null,
+                    "additionalPersonPrice": null,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 21,
+                        "tripPricePerHour": 43
+                    }
+                },
+                "licenseStatus": "Verified",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1155307",
+                    "charterIdcharter": "48423",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                    "width": "1290",
+                    "height": "775",
+                    "aspectRatio": "1.665",
+                    "status": "optimized",
+                    "createdDate": "2026-03-19 10:50:36",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/48423/sb/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/48423/m/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/48423/tb/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/48423/m/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/48423/mb/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/48423/f/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/48423/fb/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/48423/t/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/48423/tb/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/48423/s/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/48423/sb/03df9ffc5e0b24f7bd67c2a8e98c0969.jpg"
+                    }
+                },
+                "charterVideo": null,
+                "airDistance": {
+                    "distance": 3.1,
+                    "message": null
+                },
+                "drivingDistance": {
+                    "distanceInMiles": 4.1,
+                    "distanceInMilesMessage": null,
+                    "duration": {
+                        "hours": 0,
+                        "minutes": 12
+                    },
+                    "durationMessage": null
+                },
+                "reviewStatistics": null,
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Kinbigas Magu",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Malé",
+                    "locationId": 61,
+                    "destinationId": 34,
+                    "postalCode": "20049",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": "enhanced",
+                "newBadge": "new-captain",
+                "hasAnglersChoiceAward": false,
+                "capacity": 18,
+                "length": "36",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_tour",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 189819,
+                    "title": "4 Hr – Malé Morning Excursion",
+                    "duration": 4,
+                    "type": "P",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "snorkeling_diving_tours",
+                    "whale_dolphin_watching",
+                    "eco_tours",
+                    "sandbar_tours",
+                    "stingray_tours"
+                ],
+                "boatType": "Sportfishing",
+                "cheapestTripForActivity": null
+            },
+            {
+                "id": 46010,
+                "title": "Misraab by Merenga",
+                "isAvailable": true,
+                "isInstantBookActive": true,
+                "isFreeCancellationActive": false,
+                "freeCancellationDaysInAdvance": 0,
+                "minPrice": {
+                    "value": 443.48199999999997,
+                    "displayValue": "€443",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 182709,
+                    "currency": "EUR",
+                    "tripPrice": 111,
+                    "basePrice": 55,
+                    "additionalPersonAfter": null,
+                    "additionalPersonPrice": null,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 11,
+                        "tripPricePerHour": 22
+                    }
+                },
+                "licenseStatus": "Pending",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1127650",
+                    "charterIdcharter": "46010",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                    "width": "1920",
+                    "height": "1079",
+                    "aspectRatio": "1.779",
+                    "status": "optimized",
+                    "createdDate": "2025-11-26 10:44:41",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/46010/sb/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/46010/m/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/46010/tb/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/46010/m/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/46010/mb/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/46010/f/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/46010/fb/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/46010/t/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/46010/tb/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/46010/s/994ce63101a8cd504f8a2d03b489c0fe.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/46010/sb/994ce63101a8cd504f8a2d03b489c0fe.jpg"
+                    }
+                },
+                "charterVideo": null,
+                "airDistance": {
+                    "distance": 1.7,
+                    "message": null
+                },
+                "drivingDistance": {
+                    "distanceInMiles": 3.8,
+                    "distanceInMilesMessage": null,
+                    "duration": {
+                        "hours": 0,
+                        "minutes": 11
+                    },
+                    "durationMessage": null
+                },
+                "reviewStatistics": null,
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Airport Main Road",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Malé",
+                    "locationId": 61,
+                    "destinationId": 34,
+                    "postalCode": "22000",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": null,
+                "newBadge": null,
+                "hasAnglersChoiceAward": false,
+                "capacity": 8,
+                "length": "65",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_tour",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 182709,
+                    "title": "5 Hour – Half Day Excursion Trip",
+                    "duration": 5,
+                    "type": "P",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "sunset_dinner_cruises",
+                    "island_hopping",
+                    "snorkeling_diving_tours",
+                    "whale_dolphin_watching",
+                    "fishing_charter",
+                    "sandbar_tours",
+                    "stingray_tours"
+                ],
+                "boatType": "Sportfishing",
+                "cheapestTripForActivity": null
+            },
+            {
+                "id": 41063,
+                "title": "Fish On",
+                "isAvailable": true,
+                "isInstantBookActive": true,
+                "isFreeCancellationActive": true,
+                "freeCancellationDaysInAdvance": 1,
+                "minPrice": {
+                    "value": 852.85,
+                    "displayValue": "€853",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 173507,
+                    "currency": "EUR",
+                    "tripPrice": 853,
+                    "basePrice": 853,
+                    "additionalPersonAfter": null,
+                    "additionalPersonPrice": null,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 171,
+                        "tripPricePerHour": 171
+                    }
+                },
+                "licenseStatus": "Pending",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1083105",
+                    "charterIdcharter": "41063",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                    "width": "4000",
+                    "height": "2250",
+                    "aspectRatio": "1.778",
+                    "status": "optimized",
+                    "createdDate": "2025-04-04 11:03:46",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/41063/sb/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/41063/m/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/41063/tb/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/41063/m/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/41063/mb/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/41063/f/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/41063/fb/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/41063/t/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/41063/tb/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/41063/s/dd3707ca43c3df0afeb4a2f85c1909a9.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/41063/sb/dd3707ca43c3df0afeb4a2f85c1909a9.jpg"
+                    }
+                },
+                "charterVideo": null,
+                "airDistance": null,
+                "drivingDistance": {
+                    "distanceInMiles": 0.6,
+                    "distanceInMilesMessage": null,
+                    "duration": {
+                        "hours": 0,
+                        "minutes": 3
+                    },
+                    "durationMessage": null
+                },
+                "reviewStatistics": null,
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Nirolhu Magu 10457",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Malé",
+                    "locationId": 61,
+                    "destinationId": 34,
+                    "postalCode": "23000",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": null,
+                "newBadge": null,
+                "hasAnglersChoiceAward": false,
+                "capacity": 8,
+                "length": "36",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_tour",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 173507,
+                    "title": "5 Hour – Boating Adventure",
+                    "duration": 5,
+                    "type": "V",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "island_hopping",
+                    "snorkeling_diving_tours",
+                    "whale_dolphin_watching",
+                    "sandbar_tours"
+                ],
+                "boatType": "Sportfishing",
+                "cheapestTripForActivity": null
+            },
+            {
+                "id": 47708,
+                "title": "Maldives Excursions",
+                "isAvailable": true,
+                "isInstantBookActive": true,
+                "isFreeCancellationActive": true,
+                "freeCancellationDaysInAdvance": 3,
+                "minPrice": {
+                    "value": 255.855,
+                    "displayValue": "€256",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 184463,
+                    "currency": "EUR",
+                    "tripPrice": 85,
+                    "basePrice": 43,
+                    "additionalPersonAfter": null,
+                    "additionalPersonPrice": null,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 14,
+                        "tripPricePerHour": 28
+                    }
+                },
+                "licenseStatus": "Pending",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1137034",
+                    "charterIdcharter": "47708",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "044b442b47905c6803f88b688c9c780a.jpg",
+                    "width": "1920",
+                    "height": "1080",
+                    "aspectRatio": "1.778",
+                    "status": "optimized",
+                    "createdDate": "2026-01-05 17:30:17",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/47708/sb/044b442b47905c6803f88b688c9c780a.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/47708/m/044b442b47905c6803f88b688c9c780a.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/47708/tb/044b442b47905c6803f88b688c9c780a.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/47708/m/044b442b47905c6803f88b688c9c780a.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/47708/mb/044b442b47905c6803f88b688c9c780a.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/47708/f/044b442b47905c6803f88b688c9c780a.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/47708/fb/044b442b47905c6803f88b688c9c780a.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/47708/t/044b442b47905c6803f88b688c9c780a.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/47708/tb/044b442b47905c6803f88b688c9c780a.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/47708/s/044b442b47905c6803f88b688c9c780a.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/47708/sb/044b442b47905c6803f88b688c9c780a.jpg"
+                    }
+                },
+                "charterVideo": null,
+                "airDistance": null,
+                "drivingDistance": null,
+                "reviewStatistics": null,
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Hulhumale Lakudi Jetty (Hulhumale West Side Jetty)",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Hulhumale",
+                    "locationId": 1065,
+                    "destinationId": 1054,
+                    "postalCode": "23000",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": null,
+                "newBadge": null,
+                "hasAnglersChoiceAward": false,
+                "capacity": 18,
+                "length": "36",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_tour",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 184463,
+                    "title": "3 Hour – Dolphin Watching (PM)",
+                    "duration": 3,
+                    "type": "P",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "sunset_dinner_cruises",
+                    "whale_dolphin_watching"
+                ],
+                "boatType": "Cruiser",
+                "cheapestTripForActivity": null
+            },
+            {
+                "id": 46472,
+                "title": "Solara Maldives",
+                "isAvailable": true,
+                "isInstantBookActive": false,
+                "isFreeCancellationActive": false,
+                "freeCancellationDaysInAdvance": 0,
+                "minPrice": {
+                    "value": 2558.55,
+                    "displayValue": "€2,559",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 183402,
+                    "currency": "EUR",
+                    "tripPrice": 2559,
+                    "basePrice": 2559,
+                    "additionalPersonAfter": 14,
+                    "additionalPersonPrice": 128,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 512,
+                        "tripPricePerHour": 512
+                    }
+                },
+                "licenseStatus": "Pending",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1130822",
+                    "charterIdcharter": "46472",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "31c2e41525e464c854f695aa7d922efd.jpg",
+                    "width": "6288",
+                    "height": "4178",
+                    "aspectRatio": "1.505",
+                    "status": "optimized",
+                    "createdDate": "2025-12-08 06:09:06",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/46472/sb/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/46472/m/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/46472/tb/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/46472/m/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/46472/mb/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/46472/f/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/46472/fb/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/46472/t/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/46472/tb/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/46472/s/31c2e41525e464c854f695aa7d922efd.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/46472/sb/31c2e41525e464c854f695aa7d922efd.jpg"
+                    }
+                },
+                "charterVideo": null,
+                "airDistance": null,
+                "drivingDistance": null,
+                "reviewStatistics": null,
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Hulhumale Lakudi Jetty (Hulhumale West Side Jetty)",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Hulhumale",
+                    "locationId": 1065,
+                    "destinationId": 1054,
+                    "postalCode": "20002",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": null,
+                "newBadge": null,
+                "hasAnglersChoiceAward": false,
+                "capacity": 30,
+                "length": "75",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_rental",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 183402,
+                    "title": "5 Hour – Solara Trip",
+                    "duration": 5,
+                    "type": "V",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "paddleboard_activity",
+                    "snorkeling_diving_tours",
+                    "whale_dolphin_watching"
+                ],
+                "boatType": "Motor yacht",
+                "cheapestTripForActivity": null
+            },
+            {
+                "id": 45765,
+                "title": "Master Bite",
+                "isAvailable": true,
+                "isInstantBookActive": true,
+                "isFreeCancellationActive": true,
+                "freeCancellationDaysInAdvance": 3,
+                "minPrice": {
+                    "value": 170.57,
+                    "displayValue": "€171",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 182321,
+                    "currency": "EUR",
+                    "tripPrice": 171,
+                    "basePrice": 171,
+                    "additionalPersonAfter": null,
+                    "additionalPersonPrice": null,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 85,
+                        "tripPricePerHour": 85
+                    }
+                },
+                "licenseStatus": "Pending",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1126258",
+                    "charterIdcharter": "45765",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "d7dfa253e2c882d5141035adc9abd204.jpg",
+                    "width": "3160",
+                    "height": "2194",
+                    "aspectRatio": "1.440",
+                    "status": "optimized",
+                    "createdDate": "2025-11-20 07:20:42",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/45765/sb/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/45765/m/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/45765/tb/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/45765/m/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/45765/mb/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/45765/f/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/45765/fb/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/45765/t/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/45765/tb/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/45765/s/d7dfa253e2c882d5141035adc9abd204.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/45765/sb/d7dfa253e2c882d5141035adc9abd204.jpg"
+                    }
+                },
+                "charterVideo": null,
+                "airDistance": {
+                    "distance": 2.8,
+                    "message": null
+                },
+                "drivingDistance": {
+                    "distanceInMiles": 4.6,
+                    "distanceInMilesMessage": null,
+                    "duration": {
+                        "hours": 0,
+                        "minutes": 15
+                    },
+                    "durationMessage": null
+                },
+                "reviewStatistics": null,
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Dheefram Goalhi",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Malé",
+                    "locationId": 61,
+                    "destinationId": 34,
+                    "postalCode": "20220",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": null,
+                "newBadge": null,
+                "hasAnglersChoiceAward": false,
+                "capacity": 6,
+                "length": "30",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_tour",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 182321,
+                    "title": "2 Hour – Sunset Ride",
+                    "duration": 2,
+                    "type": "V",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "sunset_dinner_cruises"
+                ],
+                "boatType": "Center console",
+                "cheapestTripForActivity": null
+            },
+            {
+                "id": 45699,
+                "title": "Arriva",
+                "isAvailable": true,
+                "isInstantBookActive": true,
+                "isFreeCancellationActive": true,
+                "freeCancellationDaysInAdvance": 3,
+                "minPrice": {
+                    "value": 179.0985,
+                    "displayValue": "€179",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 182232,
+                    "currency": "EUR",
+                    "tripPrice": 24,
+                    "basePrice": 12,
+                    "additionalPersonAfter": null,
+                    "additionalPersonPrice": null,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 4,
+                        "tripPricePerHour": 8
+                    }
+                },
+                "licenseStatus": "Pending",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1126002",
+                    "charterIdcharter": "45699",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "b5a21e29ed59e6dddd09da7f65944178.jpg",
+                    "width": "4926",
+                    "height": "3282",
+                    "aspectRatio": "1.501",
+                    "status": "optimized",
+                    "createdDate": "2025-11-19 02:59:20",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/45699/sb/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/45699/m/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/45699/tb/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/45699/m/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/45699/mb/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/45699/f/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/45699/fb/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/45699/t/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/45699/tb/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/45699/s/b5a21e29ed59e6dddd09da7f65944178.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/45699/sb/b5a21e29ed59e6dddd09da7f65944178.jpg"
+                    }
+                },
+                "charterVideo": {
+                    "id": 30942,
+                    "charterId": 45699,
+                    "videoId": 58942,
+                    "description": "Luxury Experience for your marine transfer",
+                    "cardinal": 0,
+                    "isCustomProduced": false,
+                    "customProducedTagType": null,
+                    "video": {
+                        "id": 58942,
+                        "type": "wistia",
+                        "projectId": "ayqh98vv72",
+                        "externalId": "b9hj53xcr6",
+                        "url": "https://fishingbooker.wistia.com/medias/b9hj53xcr6",
+                        "photo": "https://embed-ssl.wistia.com/deliveries/22547618abb40673eaac5134e9954bee.webp?video_still_time=6",
+                        "thumbnail": "https://embed-ssl.wistia.com/deliveries/22547618abb40673eaac5134e9954bee.webp?image_crop_resized=400x240&video_still_time=6",
+                        "duration": 13.219,
+                        "size": 12406243,
+                        "width": 1080,
+                        "height": 1920,
+                        "aspectRation": 0.5625,
+                        "dateCreated": "2025-11-27 04:08:57",
+                        "dateUpdated": null
+                    }
+                },
+                "airDistance": {
+                    "distance": 2.8,
+                    "message": null
+                },
+                "drivingDistance": {
+                    "distanceInMiles": 4.7,
+                    "distanceInMilesMessage": null,
+                    "duration": {
+                        "hours": 0,
+                        "minutes": 16
+                    },
+                    "durationMessage": null
+                },
+                "reviewStatistics": null,
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Boduthakurufaanu Magu",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Malé",
+                    "locationId": 61,
+                    "destinationId": 34,
+                    "postalCode": "",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": null,
+                "newBadge": null,
+                "hasAnglersChoiceAward": false,
+                "capacity": 20,
+                "length": "38",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_tour",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 182232,
+                    "title": "Private excursion",
+                    "duration": 3,
+                    "type": "P",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "island_hopping",
+                    "sandbar_tours"
+                ],
+                "boatType": "Other",
+                "cheapestTripForActivity": null
+            },
+            {
+                "id": 47254,
+                "title": "Black Pearl 1",
+                "isAvailable": true,
+                "isInstantBookActive": false,
+                "isFreeCancellationActive": true,
+                "freeCancellationDaysInAdvance": 3,
+                "minPrice": {
+                    "value": 469.0675,
+                    "displayValue": "€469",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro"
+                    }
+                },
+                "discountedPrice": null,
+                "packagePricing": {
+                    "packageId": 184075,
+                    "currency": "EUR",
+                    "tripPrice": 469,
+                    "basePrice": 469,
+                    "additionalPersonAfter": null,
+                    "additionalPersonPrice": null,
+                    "loyaltyBasePrice": null,
+                    "loyaltyTripPrice": null,
+                    "loyaltyAdditionalPersonPrice": null,
+                    "pricePerHour": {
+                        "basePricePerHour": 117,
+                        "tripPricePerHour": 117
+                    }
+                },
+                "licenseStatus": "Pending",
+                "licenseTag": null,
+                "charterPhoto": {
+                    "id": "1134897",
+                    "charterIdcharter": "47254",
+                    "description": null,
+                    "cardinal": "0",
+                    "path": "ff63a0a189d933ee0d33985f29b37417.jpg",
+                    "width": "1600",
+                    "height": "1200",
+                    "aspectRatio": "1.333",
+                    "status": "optimized",
+                    "createdDate": "2025-12-24 06:10:21",
+                    "urls": {
+                        "small": "https://imgcdn.boatbooker.com/charter/47254/sb/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "public": "https://imgcdn.boatbooker.com/charter/47254/m/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "thumbnail": "https://imgcdn.boatbooker.com/charter/47254/tb/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "m": "https://imgcdn.boatbooker.com/charter/47254/m/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "mb": "https://imgcdn.boatbooker.com/charter/47254/mb/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "f": "https://imgcdn.boatbooker.com/charter/47254/f/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "fb": "https://imgcdn.boatbooker.com/charter/47254/fb/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "t": "https://imgcdn.boatbooker.com/charter/47254/t/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "tb": "https://imgcdn.boatbooker.com/charter/47254/tb/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "s": "https://imgcdn.boatbooker.com/charter/47254/s/ff63a0a189d933ee0d33985f29b37417.jpg",
+                        "sb": "https://imgcdn.boatbooker.com/charter/47254/sb/ff63a0a189d933ee0d33985f29b37417.jpg"
+                    }
+                },
+                "charterVideo": null,
+                "airDistance": {
+                    "distance": 2.4,
+                    "message": null
+                },
+                "drivingDistance": {
+                    "distanceInMiles": 4.8,
+                    "distanceInMilesMessage": null,
+                    "duration": {
+                        "hours": 0,
+                        "minutes": 36
+                    },
+                    "durationMessage": null
+                },
+                "reviewStatistics": {
+                    "reviewCount": 1,
+                    "rating": 4.66,
+                    "ratingOverall": 5,
+                    "ratingEquipment": 4,
+                    "ratingCaptain": 5,
+                    "stars": {
+                        "countStar1": 0,
+                        "countStar2": 0,
+                        "countStar3": 0,
+                        "countStar4": 0,
+                        "countStar5": 1
+                    }
+                },
+                "mostUsefulReview": null,
+                "urls": null,
+                "geoPoint": null,
+                "charterDestinationDetails": {
+                    "address": "Male - Hulhule Ferry",
+                    "countryTitle": "Maldives",
+                    "countryAbbrev": "mv",
+                    "locationTitle": "Malé",
+                    "locationId": 61,
+                    "destinationId": 34,
+                    "postalCode": "50001",
+                    "stateAbbrev": null,
+                    "stateTitle": null
+                },
+                "verificationBadge": null,
+                "newBadge": null,
+                "hasAnglersChoiceAward": false,
+                "capacity": 4,
+                "length": "23",
+                "displayDescription": null,
+                "pageViews": null,
+                "hasRecentReports": null,
+                "charterScarcity": null,
+                "listingType": "boat_tour",
+                "boatCategory": null,
+                "packageData": {
+                    "id": 184075,
+                    "title": "4 Hour – Snorkeling Trip",
+                    "duration": 4,
+                    "type": "V",
+                    "isShared": false
+                },
+                "popularFeatures": null,
+                "thirdPartyReviews": [],
+                "isTripadvisorActive": false,
+                "activities": [
+                    "boat_yacht_tours",
+                    "snorkeling_diving_tours",
+                    "whale_dolphin_watching"
+                ],
+                "boatType": "Center console",
+                "cheapestTripForActivity": null
+            }
+        ],
+        "filters": [
+            {
+                "groupKey": "activitiesFilter",
+                "isNew": false,
+                "title": "Activities",
+                "isDefaultVisible": true,
+                "filterType": "and",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "Boat & Yacht Tours",
+                        "filterKey": "boat_yacht_tours",
+                        "isSelected": false,
+                        "count": 31,
+                        "description": null
+                    },
+                    {
+                        "title": "Sailing, Catamaran & Gulet Tours",
+                        "filterKey": "sailing_catamaran_gulet_tours",
+                        "isSelected": false,
+                        "count": 1,
+                        "description": null
+                    },
+                    {
+                        "title": "Pontoon & Tiki Boat Tours",
+                        "filterKey": "pontoon_tiki_boat_tours",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Canal Boat Tours",
+                        "filterKey": "canal_boat_tours",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Sunset Dinner Cruises",
+                        "filterKey": "sunset_dinner_cruises",
+                        "isSelected": false,
+                        "count": 6,
+                        "description": null
+                    },
+                    {
+                        "title": "Island Hopping",
+                        "filterKey": "island_hopping",
+                        "isSelected": false,
+                        "count": 9,
+                        "description": null
+                    },
+                    {
+                        "title": "Booze Cruises",
+                        "filterKey": "booze_cruises",
+                        "isSelected": false,
+                        "count": 1,
+                        "description": null
+                    },
+                    {
+                        "title": "Paddleboarding",
+                        "filterKey": "paddleboard_activity",
+                        "isSelected": false,
+                        "count": 2,
+                        "description": null
+                    },
+                    {
+                        "title": "Parasailing",
+                        "filterKey": "parasailing",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Jet Ski Tours",
+                        "filterKey": "jet_ski_tours",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Canoe & Kayak Tours",
+                        "filterKey": "canoe_kayak_tours",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Snorkeling & Diving Tours",
+                        "filterKey": "snorkeling_diving_tours",
+                        "isSelected": false,
+                        "count": 18,
+                        "description": null
+                    },
+                    {
+                        "title": "Shark Diving",
+                        "filterKey": "shark_diving",
+                        "isSelected": false,
+                        "count": 1,
+                        "description": null
+                    },
+                    {
+                        "title": "Whale & Dolphin Watching",
+                        "filterKey": "whale_dolphin_watching",
+                        "isSelected": false,
+                        "count": 16,
+                        "description": null
+                    },
+                    {
+                        "title": "Fishing",
+                        "filterKey": "fishing_charter",
+                        "isSelected": false,
+                        "count": 4,
+                        "description": null
+                    },
+                    {
+                        "title": "Swimming With Pigs",
+                        "filterKey": "swimming_with_pigs",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Eco-Tours",
+                        "filterKey": "eco_tours",
+                        "isSelected": false,
+                        "count": 2,
+                        "description": null
+                    },
+                    {
+                        "title": "Sandbar Tours",
+                        "filterKey": "sandbar_tours",
+                        "isSelected": false,
+                        "count": 13,
+                        "description": null
+                    },
+                    {
+                        "title": "Stingray Tours",
+                        "filterKey": "stingray_tours",
+                        "isSelected": false,
+                        "count": 6,
+                        "description": null
+                    }
+                ],
+                "data": []
+            },
+            {
+                "groupKey": "priceRangeFilter",
+                "isNew": false,
+                "title": "Price range",
+                "isDefaultVisible": false,
+                "filterType": "range",
+                "isSelected": false,
+                "items": [],
+                "data": [],
+                "minValue": null,
+                "maxValue": null
+            },
+            {
+                "groupKey": "durationFilterV2",
+                "isNew": false,
+                "title": "Duration",
+                "isDefaultVisible": true,
+                "filterType": "or",
+                "isSelected": true,
+                "items": [
+                    {
+                        "title": "Short trips",
+                        "filterKey": "short_trips",
+                        "isSelected": true,
+                        "count": 10,
+                        "description": "up to 3 hours"
+                    },
+                    {
+                        "title": "Half day",
+                        "filterKey": "half_day",
+                        "isSelected": true,
+                        "count": 33,
+                        "description": "4-5 hours"
+                    },
+                    {
+                        "title": "3/4 day",
+                        "filterKey": "3/4_day",
+                        "isSelected": true,
+                        "count": 2,
+                        "description": "6-7 hours"
+                    },
+                    {
+                        "title": "Full day",
+                        "filterKey": "full_day",
+                        "isSelected": true,
+                        "count": 7,
+                        "description": "8-10 hours"
+                    },
+                    {
+                        "title": "Extended",
+                        "filterKey": "extended",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": "10+ hours"
+                    },
+                    {
+                        "title": "Multi-day",
+                        "filterKey": "multi_day",
+                        "isSelected": false,
+                        "count": 20,
+                        "description": null
+                    }
+                ],
+                "data": [
+                    "short_trips",
+                    "half_day",
+                    "3/4_day",
+                    "full_day"
+                ]
+            },
+            {
+                "groupKey": "departureTimeFilter",
+                "isNew": false,
+                "title": "Departure Time",
+                "isDefaultVisible": true,
+                "filterType": "or",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "Morning",
+                        "filterKey": "morning",
+                        "isSelected": false,
+                        "count": 27,
+                        "description": null
+                    },
+                    {
+                        "title": "Afternoon",
+                        "filterKey": "afternoon",
+                        "isSelected": false,
+                        "count": 2,
+                        "description": null
+                    },
+                    {
+                        "title": "Evening",
+                        "filterKey": "evening",
+                        "isSelected": false,
+                        "count": 2,
+                        "description": null
+                    },
+                    {
+                        "title": "Night",
+                        "filterKey": "night",
+                        "isSelected": false,
+                        "count": 1,
+                        "description": null
+                    }
+                ],
+                "data": []
+            },
+            {
+                "groupKey": "boatSizeFilter",
+                "isNew": true,
+                "title": "Boat Size",
+                "isDefaultVisible": true,
+                "filterType": "or",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "Under 20 feet",
+                        "filterKey": "0_19",
+                        "isSelected": false,
+                        "count": 1,
+                        "description": null
+                    },
+                    {
+                        "title": "20-29 feet",
+                        "filterKey": "20_29",
+                        "isSelected": false,
+                        "count": 18,
+                        "description": null
+                    },
+                    {
+                        "title": "30-39 feet",
+                        "filterKey": "30_39",
+                        "isSelected": false,
+                        "count": 8,
+                        "description": null
+                    },
+                    {
+                        "title": "40-49 feet",
+                        "filterKey": "40_49",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "50+ feet",
+                        "filterKey": "50_plus",
+                        "isSelected": false,
+                        "count": 5,
+                        "description": null
+                    }
+                ],
+                "data": []
+            },
+            {
+                "groupKey": "packageTypes",
+                "isNew": false,
+                "title": "Package Types",
+                "isDefaultVisible": true,
+                "filterType": "or",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "Shared",
+                        "filterKey": "shared",
+                        "isSelected": false,
+                        "count": 3,
+                        "description": null
+                    },
+                    {
+                        "title": "Private",
+                        "filterKey": "private",
+                        "isSelected": false,
+                        "count": 29,
+                        "description": null
+                    }
+                ],
+                "data": []
+            },
+            {
+                "groupKey": "reviewScoreFilter",
+                "isNew": false,
+                "title": "Review Score",
+                "isDefaultVisible": true,
+                "filterType": "or",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "4.75+",
+                        "filterKey": "4_75",
+                        "isSelected": false,
+                        "count": 28,
+                        "description": null
+                    },
+                    {
+                        "title": "4.50+",
+                        "filterKey": "4_50",
+                        "isSelected": false,
+                        "count": 4,
+                        "description": null
+                    },
+                    {
+                        "title": "4.25+",
+                        "filterKey": "4_25",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    }
+                ],
+                "data": []
+            },
+            {
+                "groupKey": "boatTypesFilter",
+                "isNew": false,
+                "title": "Boat Types",
+                "isDefaultVisible": true,
+                "filterType": "or",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "Center Console",
+                        "filterKey": "center_console",
+                        "isSelected": false,
+                        "count": 19,
+                        "description": null
+                    },
+                    {
+                        "title": "Bay Boat",
+                        "filterKey": "bay_boat",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Panga",
+                        "filterKey": "panga",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Sportfishing",
+                        "filterKey": "sportfishing",
+                        "isSelected": false,
+                        "count": 4,
+                        "description": null
+                    },
+                    {
+                        "title": "Convertible",
+                        "filterKey": "convertible",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Aluminum Fishing",
+                        "filterKey": "aluminum_fishing",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Flats Boat",
+                        "filterKey": "flats_boat",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Skiff",
+                        "filterKey": "skiff",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Bass Boat",
+                        "filterKey": "bass_boat",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Jon Boat",
+                        "filterKey": "jon_boat",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Inflatable Outboard",
+                        "filterKey": "inflatable_outboard",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Walkaround",
+                        "filterKey": "walkaround",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Pilothouse",
+                        "filterKey": "pilothouse",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Cuddy Cabin",
+                        "filterKey": "cuddy_cabin",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Downeast",
+                        "filterKey": "downeast",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Cruiser",
+                        "filterKey": "cruiser",
+                        "isSelected": false,
+                        "count": 2,
+                        "description": null
+                    },
+                    {
+                        "title": "Motoryacht",
+                        "filterKey": "motor_yacht",
+                        "isSelected": false,
+                        "count": 3,
+                        "description": null
+                    },
+                    {
+                        "title": "Headboat",
+                        "filterKey": "headboat",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Catamaran",
+                        "filterKey": "catamaran",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Dual Console",
+                        "filterKey": "dual_console",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Deck Boat",
+                        "filterKey": "deck_boat",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Jet Boat",
+                        "filterKey": "jet_boat",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Runabout",
+                        "filterKey": "runabout",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Drift Boat",
+                        "filterKey": "drift_boat",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Kayak",
+                        "filterKey": "kayak",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Canoe",
+                        "filterKey": "canoe",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Pontoon",
+                        "filterKey": "pontoon",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Airboat",
+                        "filterKey": "airboat",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Sailing",
+                        "filterKey": "sailing",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Other",
+                        "filterKey": "other",
+                        "isSelected": false,
+                        "count": 4,
+                        "description": null
+                    }
+                ],
+                "data": []
+            },
+            {
+                "groupKey": "boatCategoryFilter",
+                "isNew": false,
+                "title": "Boat Category",
+                "isDefaultVisible": true,
+                "filterType": "or",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "Center console boats",
+                        "filterKey": "center_console_boats",
+                        "isSelected": false,
+                        "count": 19,
+                        "description": null
+                    },
+                    {
+                        "title": "Sportfishing boats",
+                        "filterKey": "sportfishing_boats",
+                        "isSelected": false,
+                        "count": 4,
+                        "description": null
+                    },
+                    {
+                        "title": "Skiffs and flats boats",
+                        "filterKey": "skiffs_and_flats_boats",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Cabin cruisers",
+                        "filterKey": "cabin_cruisers",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Yachts",
+                        "filterKey": "yachts",
+                        "isSelected": false,
+                        "count": 5,
+                        "description": null
+                    },
+                    {
+                        "title": "Headboats",
+                        "filterKey": "headboats",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Catamarans",
+                        "filterKey": "catamarans",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Speed boats",
+                        "filterKey": "speed_boats",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Unpowered boats",
+                        "filterKey": "unpowered_boats",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    },
+                    {
+                        "title": "Other",
+                        "filterKey": "other",
+                        "isSelected": false,
+                        "count": 4,
+                        "description": null
+                    }
+                ],
+                "data": []
+            },
+            {
+                "groupKey": "policiesFilter",
+                "isNew": false,
+                "title": "Policies",
+                "isDefaultVisible": true,
+                "filterType": "and",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "Free Cancellation",
+                        "filterKey": "free_cancellation",
+                        "isSelected": false,
+                        "count": 32,
+                        "description": null
+                    },
+                    {
+                        "title": "Instant Book",
+                        "filterKey": "instant_book_status",
+                        "isSelected": false,
+                        "count": 32,
+                        "description": null
+                    }
+                ],
+                "data": []
+            },
+            {
+                "groupKey": "allowedOnBoardFilter",
+                "isNew": false,
+                "title": "Allowed On Board",
+                "isDefaultVisible": true,
+                "filterType": "and",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "Child Friendly",
+                        "filterKey": "children_allowed",
+                        "isSelected": false,
+                        "count": 29,
+                        "description": null
+                    },
+                    {
+                        "title": "Smoking",
+                        "filterKey": "smoking",
+                        "isSelected": false,
+                        "count": 14,
+                        "description": null
+                    },
+                    {
+                        "title": "Alcohol",
+                        "filterKey": "alcohol",
+                        "isSelected": false,
+                        "count": 11,
+                        "description": null
+                    },
+                    {
+                        "title": "Glass Bottles",
+                        "filterKey": "glass_bottles",
+                        "isSelected": false,
+                        "count": 10,
+                        "description": null
+                    },
+                    {
+                        "title": "Shoes",
+                        "filterKey": "shoes",
+                        "isSelected": false,
+                        "count": 19,
+                        "description": null
+                    },
+                    {
+                        "title": "Pets",
+                        "filterKey": "pets",
+                        "isSelected": false,
+                        "count": 8,
+                        "description": null
+                    },
+                    {
+                        "title": "Liveaboard",
+                        "filterKey": "liveaboard",
+                        "isSelected": false,
+                        "count": 12,
+                        "description": null
+                    },
+                    {
+                        "title": "Swimming",
+                        "filterKey": "swimming",
+                        "isSelected": false,
+                        "count": 25,
+                        "description": null
+                    },
+                    {
+                        "title": "Red Wine",
+                        "filterKey": "red_wine",
+                        "isSelected": false,
+                        "count": 6,
+                        "description": null
+                    }
+                ],
+                "data": []
+            },
+            {
+                "groupKey": "discountsFilter",
+                "isNew": false,
+                "title": "Discounts",
+                "isDefaultVisible": true,
+                "filterType": "and",
+                "isSelected": false,
+                "items": [
+                    {
+                        "title": "Loyalty Program",
+                        "filterKey": "loyalty_program",
+                        "isSelected": false,
+                        "count": 0,
+                        "description": null
+                    }
+                ],
+                "data": []
+            }
+        ],
+        "searchMetadata": {
+            "availableChartersCount": 16
+        },
+        "emptySearchResults": {}
+    },
+    "metadata": {
+        "page": 1,
+        "perPage": 10,
+        "pageCount": 2,
+        "totalCount": 16
+    },
+    "code": 200
+}

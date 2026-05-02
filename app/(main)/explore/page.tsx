@@ -213,14 +213,13 @@ export default function ExplorePage() {
               <h2 className="text-2xl font-bold">Ready to Fly?</h2>
               <p className="mt-2 text-muted">Book your eFoil lesson in minutes. Beginners welcome.</p>
               <div className="mt-6 flex flex-wrap justify-center gap-4">
-                <a
-                  href="https://wa.me/9607772241?text=Hey!%20I'd%20like%20to%20book%20an%20eFoil%20lesson%20in%20the%20Maldives."
-                  target="_blank" rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 rounded-full bg-[#25D366] px-6 py-3 font-semibold text-white hover:opacity-90 transition-opacity"
-                >
-                  <Icon name="MessageCircle" size={20} color="white" />
-                  Chat on WhatsApp
-                </a>
+                <Button
+                  title="Browse Boats"
+                  variant="outline"
+                  rounded="full"
+                  size="large"
+                  href="/boats"
+                />
                 <Button
                   title="Book a Lesson"
                   variant="cta"
