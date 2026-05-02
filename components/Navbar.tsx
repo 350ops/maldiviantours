@@ -11,6 +11,7 @@ import { useAuth } from '@/contexts/AuthContext';
 
 const NAV_LINKS = [
   { href: '/explore', label: 'Home', icon: 'Compass' },
+  { href: '/boats', label: 'Boats', icon: 'Anchor' },
   { href: '/book', label: 'Book a Lesson', icon: 'Waves' },
   { href: '/partners', label: 'For Partners', icon: 'Handshake' },
   { href: '/about', label: 'About', icon: 'Info' },

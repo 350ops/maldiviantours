@@ -1,0 +1,392 @@
+{
+    "version": 8,
+    "name": "Untitled",
+    "metadata": {
+        "mapbox:autocomposite": true,
+        "mapbox:thumb": "data:image/png;base64,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",
+        "mapbox:uiParadigm": "layers",
+        "mapbox:sdk-support": {
+            "js": "latest",
+            "android": "11.21.0",
+            "ios": "11.21.0"
+        },
+        "mapbox:trackposition": false,
+        "mapbox:groups": {},
+        "mapbox:uiExpandedImports": ["basemap"]
+    },
+    "center": [73.46742996124138, 4.3759942825718525],
+    "zoom": 7.094825667573799,
+    "bearing": 8.80000000000041,
+    "pitch": 58.000000000000014,
+    "lights": [
+        {
+            "id": "directional",
+            "type": "directional",
+            "properties": {
+                "direction": [
+                    "match",
+                    ["config", "lightPreset"],
+                    "dawn",
+                    [
+                        "match",
+                        ["config", "theme"],
+                        "monochrome",
+                        ["literal", [120, 40]],
+                        ["literal", [120, 50]]
+                    ],
+                    "day",
+                    ["literal", [180, 20]],
+                    "dusk",
+                    [
+                        "match",
+                        ["config", "theme"],
+                        "monochrome",
+                        ["literal", [240, 30]],
+                        ["literal", [240, 80]]
+                    ],
+                    "night",
+                    ["literal", [270, 20]],
+                    ["literal", [180, 20]]
+                ],
+                "color": [
+                    "match",
+                    ["config", "lightPreset"],
+                    "dawn",
+                    "hsl(33, 98%, 77%)",
+                    "day",
+                    "hsl(0, 0%, 100%)",
+                    "dusk",
+                    [
+                        "match",
+                        ["config", "theme"],
+                        "monochrome",
+                        "hsl(30, 0%, 50%)",
+                        "hsl(30, 98%, 76%)"
+                    ],
+                    "night",
+                    [
+                        "match",
+                        ["config", "theme"],
+                        "monochrome",
+                        "hsl(0, 0%, 0%)",
+                        "hsl(225, 15%, 29%)"
+                    ],
+                    "hsl(0, 0%, 100%)"
+                ],
+                "intensity": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    12,
+                    [
+                        "match",
+                        ["config", "lightPreset"],
+                        "dawn",
+                        0.5,
+                        "day",
+                        ["match", ["config", "theme"], "monochrome", 0.3, 0.2],
+                        "dusk",
+                        0,
+                        "night",
+                        ["match", ["config", "theme"], "monochrome", 0.01, 0],
+                        0.2
+                    ],
+                    13,
+                    [
+                        "match",
+                        ["config", "lightPreset"],
+                        "night",
+                        ["match", ["config", "theme"], "monochrome", 0.01, 0],
+                        0.2
+                    ],
+                    14,
+                    [
+                        "match",
+                        ["config", "lightPreset"],
+                        "dawn",
+                        ["match", ["config", "theme"], "monochrome", 0.35, 0.5],
+                        "day",
+                        0.2,
+                        "dusk",
+                        ["match", ["config", "theme"], "monochrome", 0.15, 0.2],
+                        "night",
+                        ["match", ["config", "theme"], "monochrome", 0.25, 0.5],
+                        0.2
+                    ]
+                ],
+                "shadow-intensity": [
+                    "match",
+                    ["config", "lightPreset"],
+                    "night",
+                    0.79,
+                    "dusk",
+                    1,
+                    0.6
+                ],
+                "shadow-quality": 0.5,
+                "cast-shadows": true
+            }
+        },
+        {
+            "id": "ambient",
+            "type": "ambient",
+            "properties": {
+                "color": [
+                    "match",
+                    ["config", "lightPreset"],
+                    "dawn",
+                    "hsl(28, 98%, 93%)",
+                    "day",
+                    "hsl(0, 0%, 100%)",
+                    "dusk",
+                    "hsl(228, 27%, 29%)",
+                    "night",
+                    [
+                        "match",
+                        ["config", "theme"],
+                        "monochrome",
+                        "hsl(217, 100%, 0%)",
+                        "hsl(217, 100%, 11%)"
+                    ],
+                    "hsl(0, 0%, 100%)"
+                ],
+                "intensity": [
+                    "match",
+                    ["config", "lightPreset"],
+                    "dawn",
+                    0.75,
+                    "day",
+                    ["match", ["config", "theme"], "monochrome", 0.85, 0.8],
+                    "dusk",
+                    ["match", ["config", "theme"], "monochrome", 0.1, 0.8],
+                    "night",
+                    ["match", ["config", "theme"], "monochrome", 0, 0.5],
+                    0.8
+                ]
+            }
+        },
+        {"id": "flat", "type": "flat", "properties": {}}
+    ],
+    "terrain": {
+        "source": "mapbox-dem",
+        "exaggeration": [
+            "interpolate",
+            ["linear"],
+            ["zoom"],
+            6,
+            3,
+            7,
+            3,
+            12,
+            3,
+            13.7,
+            3
+        ]
+    },
+    "fog": {
+        "vertical-range": [30, 120],
+        "range": [
+            "interpolate",
+            ["linear"],
+            ["zoom"],
+            13,
+            ["literal", [1, 10]],
+            15,
+            ["literal", [1, 4]],
+            22,
+            ["literal", [14, 20]]
+        ],
+        "color": [
+            "interpolate",
+            ["exponential", 1.2],
+            ["zoom"],
+            5,
+            [
+                "interpolate",
+                ["linear"],
+                ["measure-light", "brightness"],
+                0.1,
+                [
+                    "match",
+                    ["config", "theme"],
+                    "monochrome",
+                    "hsla(0, 0%, 20%, 1)",
+                    "hsla(240, 9%, 55%, 1)"
+                ],
+                0.4,
+                "hsla(0, 0%, 100%, 1)"
+            ],
+            7,
+            [
+                "interpolate",
+                ["linear"],
+                ["measure-light", "brightness"],
+                0.02,
+                "hsla(213, 63%, 20%, 0.9)",
+                0.03,
+                "hsla(30, 65%, 60%, 0.5)",
+                0.4,
+                "hsla(10, 79%, 88%, 0.95)",
+                0.45,
+                "hsla(200, 60%, 98%, 0.9)"
+            ]
+        ],
+        "high-color": [
+            "interpolate",
+            ["exponential", 1.2],
+            ["zoom"],
+            5,
+            [
+                "interpolate",
+                ["linear"],
+                ["measure-light", "brightness"],
+                0.1,
+                "hsla(215, 100%, 20%, 1)",
+                0.4,
+                "hsla(215, 100%, 51%, 1)"
+            ],
+            7,
+            [
+                "interpolate",
+                ["linear"],
+                ["measure-light", "brightness"],
+                0,
+                "hsla(228, 38%, 20%, 1)",
+                0.05,
+                "hsla(360, 100%, 85%, 1)",
+                0.2,
+                "hsla(205, 88%, 86%, 1)",
+                0.4,
+                "hsla(270, 65%, 85%, 1)",
+                0.45,
+                "hsla(0, 0%, 100%, 1)"
+            ]
+        ],
+        "space-color": [
+            "interpolate",
+            ["exponential", 1.2],
+            ["zoom"],
+            5,
+            [
+                "match",
+                ["config", "theme"],
+                "monochrome",
+                "hsl(180, 90%, 54%)",
+                "hsl(211, 84%, 9%)"
+            ],
+            7,
+            [
+                "interpolate",
+                ["linear"],
+                ["measure-light", "brightness"],
+                0,
+                [
+                    "match",
+                    ["config", "theme"],
+                    "monochrome",
+                    "hsl(0, 0%, 0%)",
+                    "hsl(211, 84%, 17%)"
+                ],
+                0.2,
+                "hsl(210, 40%, 30%)",
+                0.4,
+                "hsl(270, 45%, 98%)",
+                0.45,
+                "hsl(210, 100%, 80%)"
+            ]
+        ],
+        "horizon-blend": [
+            "interpolate",
+            ["exponential", 1.2],
+            ["zoom"],
+            5,
+            ["match", ["config", "theme"], "monochrome", 0.001, 0.01],
+            7,
+            [
+                "interpolate",
+                ["exponential", 1.2],
+                ["measure-light", "brightness"],
+                0.35,
+                0.03,
+                0.4,
+                0.1,
+                0.45,
+                0.03
+            ]
+        ],
+        "star-intensity": [
+            "interpolate",
+            ["exponential", 1.2],
+            ["zoom"],
+            5,
+            0.4,
+            7,
+            [
+                "interpolate",
+                ["exponential", 1.2],
+                ["measure-light", "brightness"],
+                0.1,
+                0.2,
+                0.3,
+                0
+            ]
+        ]
+    },
+    "imports": [
+        {
+            "id": "basemap",
+            "url": "mapbox://styles/mapbox/standard",
+            "config": {
+                "colorPlaceLabels": "hsl(220, 66%, 45%)",
+                "colorPlaceLabelHighlight": "hsl(211, 43%, 55%)",
+                "showLandmarkIcons": true,
+                "colorGreenspace": "hsl(115, 68%, 84%)",
+                "densityPointOfInterestLabels": 2,
+                "show3dFacades": true,
+                "colorPlaceLabelSelect": "hsl(163, 53%, 42%)",
+                "colorLand": "hsl(47, 47%, 93%)",
+                "font": "Arial Unicode MS",
+                "showIndoor": true,
+                "colorRoads": "hsl(224, 12%, 72%)",
+                "colorWater": "hsla(187, 100%, 72%, 0.78)",
+                "lightPreset": "day"
+            }
+        }
+    ],
+    "sources": {
+        "mapbox-dem": {
+            "type": "raster-dem",
+            "url": "mapbox://mapbox.mapbox-terrain-dem-v1",
+            "tileSize": 512
+        }
+    },
+    "sprite": "mapbox://sprites/miguelantonmasero/cmonup7w9000p01r1cjqq16uu/b8fjw435hx85pp7j172f016pl",
+    "glyphs": "mapbox://fonts/miguelantonmasero/{fontstack}/{range}.pbf",
+    "projection": {"name": "globe"},
+    "layers": [
+        {
+            "id": "sky",
+            "type": "sky",
+            "layout": {},
+            "paint": {
+                "sky-type": "gradient",
+                "sky-gradient": [
+                    "interpolate",
+                    ["linear"],
+                    ["sky-radial-progress"],
+                    0.3,
+                    "hsl(197, 81%, 43%)",
+                    1,
+                    "hsl(207, 82%, 62%)"
+                ]
+            }
+        }
+    ],
+    "created": "2026-05-02T04:37:53.338Z",
+    "modified": "2026-05-02T05:02:43.577Z",
+    "id": "cmonup7w9000p01r1cjqq16uu",
+    "owner": "miguelantonmasero",
+    "visibility": "private",
+    "protected": false,
+    "draft": false
+}

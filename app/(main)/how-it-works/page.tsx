@@ -76,14 +76,7 @@ export default function HowItWorksPage() {
         {/* CTA */}
         <AnimatedDiv animation="scaleIn" delay={300} className="mt-12 text-center">
           <div className="flex flex-wrap justify-center gap-4">
-            <a
-              href="https://wa.me/9607772241?text=Hey!%20I'd%20like%20to%20book%20an%20eFoil%20lesson%20in%20the%20Maldives."
-              target="_blank" rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 rounded-full bg-[#25D366] px-6 py-3 font-semibold text-white hover:opacity-90 transition-opacity"
-            >
-              <Icon name="MessageCircle" size={20} color="white" />
-              Chat on WhatsApp
-            </a>
+            <Button href="/boats" title="See Available Boats" variant="outline" size="large" rounded="full" />
             <Button href="/book" title="Book a Lesson" variant="cta" size="large" rounded="full" iconEnd="ArrowRight" />
           </div>
         </AnimatedDiv>
